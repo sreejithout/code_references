@@ -1,4 +1,5 @@
 /**
+* Method overriding is when we override the virtual method of a base class in the child class using the override keyword
 * method overriding is Run-time polymorphism 
 */ 
 public class CellPhone
