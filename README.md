@@ -1,1 +1,1 @@
-# learn_cs
+# learn programming
