@@ -1,4 +1,4 @@
-// 1. literal syntax
+s// 1. literal syntax
 const obj = {
     year: 1987 // property
 };

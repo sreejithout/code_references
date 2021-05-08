@@ -12,4 +12,4 @@ const obj = {
 obj.makeWeb().makeWeb();
 console.log(obj.web)
 
-obj.makeVala().makeVala()
+obj.makeVala().makeVala(); // this will break
