@@ -1,6 +1,6 @@
 const personalInformation = {
-    firstName: 'sreejith',
-    lastName: 'rk'
+    firstName: 'john',
+    lastName: 'doe'
 };
 
 const {firstName: fn, lastName, hi} = personalInformation;

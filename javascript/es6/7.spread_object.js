@@ -1,5 +1,5 @@
 let example1 = {
-    firstName: 'Sreejith'
+    firstName: 'john'
 };
 
 let example2 = {

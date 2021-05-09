@@ -7,6 +7,6 @@ function Zombie(name) {
     }
 }
 
-const obj = new Zombie('sreejith');
+const obj = new Zombie('john');
 
 console.log(obj.eatBrain())

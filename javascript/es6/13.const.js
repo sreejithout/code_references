@@ -6,5 +6,5 @@ array.pop()
 array
 
 const object = {};
-object.name = 'sreejith';
+object.name = 'john';
 object

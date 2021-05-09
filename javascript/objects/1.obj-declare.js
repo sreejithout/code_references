@@ -1,19 +1,19 @@
-s// 1. literal syntax
+// 1. literal syntax
 const obj = {
     year: 1987 // property
 };
-obj.name = "sreejith"; // property
+obj.name = "john"; // property
 
 
 // 2. using constructor
 const obj1 = new Object();
-obj1["my name"] = "sreejith r k";
+obj1["my name"] = "john doe";
 
 
 
 let list = [
     {
-        name: "sreejith",
+        name: "john",
         id: 1
     },
     {

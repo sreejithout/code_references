@@ -1,4 +1,4 @@
-let word1 = "sreejith";
+let word1 = "john";
 
 console.log(`hi ${word1}`);
 
