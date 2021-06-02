@@ -1,7 +1,7 @@
 const spider = 'spider';
 const legs = 8;
 
-// object listeral
+// object literal
 const obj = {
     spider,
     legs,
