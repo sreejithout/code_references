@@ -47,6 +47,14 @@
   - Table
 
 # Security and Identity
+- Authentication
+- Authorization
+- Data Protection
+- Secrets Management
+- Enforce HTTPS
+- Docker compose with HTTPS
+- 
+- 
 
 # Host and Deploy
 
