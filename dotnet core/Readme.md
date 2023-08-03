@@ -96,5 +96,27 @@
 - Use In-process hosting with IIS
 - Don't assume that HttpRequest.ContentLength is not null
 - Reliable Web app patterns
+  
 # Advanced
-- 
+- Model Binding
+  - Custom model binding
+- Model Validation
+- Compatibility version
+- Write Middleware
+- Request and Response operations
+- URL rewriting
+- file providers
+- Request-feature interfaces
+- Access HttpContext
+- Change Tokens
+- Open Web Interface for .NET(OWIN)
+- Background tasks with hosted services
+- Hosting startup assemblies
+- ASP.NET Core in class assemblies
+- Metapackages
+  - Microsoft.AspNetCore.App
+  - Microsoft.AspNetCore.All
+- High performance logging
+- Use a file watcher
+- Factory-based middleware
+- Factory-based middleware with third-party container
