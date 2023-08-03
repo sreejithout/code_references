@@ -53,8 +53,14 @@
 - Secrets Management
 - Enforce HTTPS
 - Docker compose with HTTPS
-- 
-- 
+- Prevent Cross-Site Request Forgery (XSRF/CSRF) attacks
+- Prevent open redirect attacks
+- Prevent Cross-Site Scripting(XSS)
+- Enable Cross Origin Requests (CORS)
+- Share cookies among apps
+- Samesite cookies
+- IP safelist
+- Application security - OWASP
 
 # Host and Deploy
 
