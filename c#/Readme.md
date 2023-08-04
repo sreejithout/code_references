@@ -174,7 +174,63 @@
     - Layout conventions
   - Security Coding guidelines 
 # Language Integrated Query (LINQ)
+## Overview of LINQ
+## Getting Started with LINQ in C#
+## Standard Query Operations
+## LINQ to objects
+## Walkthrough: Writing queries in C# (LINQ)
+## LINQ and file directories
+## How to Articles
+
 # Asynchronous Programming
+## Overview
+## Asynchronous programming scenarios
+## Task Asynchronous programming model
+## Async return types
+## Process Asynchronous tasks as they complete
+## Asynchronous file access
+## Cancel a list of tasks
+## Cancel tasks after a period of time
+## Generate and consume Asynchronous streams
+
 # C# Concepts
+## Nullable reference types
+## Nullable reference migrations
+## Methods
+## Properties
+## Indexers
+## Iterators
+## Delegates & Events
+## Versioning
+
 # Advanced Topics
+## Reflection and Attributes
+## Interface implementations
+## Expression Trees
+## Native interoperability
+## Performance engineering
+
+# C# Programming Guide
+## Overview
+## Programming Concepts
+## Statements, expressions and equality
+## Types
+## Classes, Structs and Records
+## Interfaces
+## Delegates
+## Arrays 
+## Strings
+## Indexers
+## Events
+## Generics
+
+# Specifications
+## C#7
+## C#8
+## C#9
+## C#10
+## C#11
+## C#12
+
 # What's new in C#
+
