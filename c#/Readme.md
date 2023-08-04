@@ -1,4 +1,6 @@
+https://learn.microsoft.com/en-us/dotnet/csharp/
 # Get Started
+https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
 ## Introduction
   - .NET Architecture
   - Hello World
@@ -42,6 +44,7 @@
 - Attributes
 
 # Fundamentals
+https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/
 ## Program Structure
 - Overview
 - Main Method
@@ -172,17 +175,121 @@
   - Style guidelines
     - Comment style
     - Layout conventions
-  - Security Coding guidelines 
+  - Security Coding guidelines
+  
 # Language Integrated Query (LINQ)
+https://learn.microsoft.com/en-us/dotnet/csharp/linq/
 ## Overview of LINQ
+- Query Expression Overview
+- How to enable LINQ querying of your data source
+  - In-memory data
+  - Remote data
+- Iqueryable LINQ providers
 ## Getting Started with LINQ in C#
+- Introduction to LINQ Queries
+  - Three parts of a Query Operation
+  - The Data Source
+  - The Query
+  - Query Execution
+    - Deferred Execution
+    - Forcing Immediate Execution
+- Query Expression Basics
+  - What is a query and what does it do?
+  - What is a query expression
+    - Query variable
+    - Explicit and Implicit typing of query variables
+  - Starting a query expression  
+  - Ending a query expression
+    - group clause
+    - select clause
+    - Continuations with into
+  - Filtering, Ordering and joining
+    - where clause
+    - orderby clause
+    - join clause
+    - let clause
+  - Subqueries in a query expression
+- Write LNQ queries in C#
+  - Standard query operator extension methods
+  - Lambda expression
+  - Composability of queries
+  - Example - Query syntax
+  - Example - Method syntax
+  - Example - Mixed query and method syntax
+- Type relationships in LINQ query operations
+  - Queries that do not Transform the Source Data
+  - Queries that Transform the Source Data
+  - Letting the compiler infer type information
+  - LINQ and Generic types
+  - IEnumerable<T> variables in LINQ queries
+  - Letting the compiler handle generic type declarations
+- C# features that support LINQ
+  - Query Expressions
+  - Implicitly typed variables (var)
+  - Object and Collection initializers
+  - Anonymous Types
+  - Extension Methods
 ## Standard Query Operations
+### Overview
+- Query expression syntax
+- Extending the standard query operators
+- Obtain a data source
+- Filtering
+- Ordering
+- Grouping
+- Joining
+- Selecting (Projections)
+- Query Expression Syntax Table
+### Data Transformations with LINQ
+- Joining Multiple Inputs into One Output Sequence
+- Selecting a Subset of each Source Element
+- Transforming In-Memory Objects into XML
+- Performing Operations on Source Elements
+### Store the results of a query in memory
+- ToList
+- ToArray
+- ToDictionary
+- ToLookup
+### Filtering Data
+- Methods
+  - OfType
+  - Where
+- Query Expression syntax Example
+### Projection Operations
+### Set Operations
+### Sorting Data
+### Quantifier Operations
+### Partitioning Data
+### Generation Operations
+### Equality Operations
+### Element Operations
+### Converting Data Types
+### Concatenation Operations
+### Aggregation Operations
+
+### Join Operations
+#### Overview
+#### Perform inner joins 
+#### Perform grouped joins
+#### Perform left outer joins
+#### Order the results of a join clause
+#### join by using composite keys
+#### Perform custom join operations
+
+### Grouping Data
+#### Overview
+#### Group query results
+#### Create a nested group
+#### Perform a subquery on a grouping operation
+#### Group results by contiguous keys
+
 ## LINQ to objects
 ## Walkthrough: Writing queries in C# (LINQ)
 ## LINQ and file directories
 ## How to Articles
 
 # Asynchronous Programming
+https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/
 ## Overview
 ## Asynchronous programming scenarios
 ## Task Asynchronous programming model
@@ -194,6 +301,7 @@
 ## Generate and consume Asynchronous streams
 
 # C# Concepts
+https://learn.microsoft.com/en-us/dotnet/csharp/nullable-references
 ## Nullable reference types
 ## Nullable reference migrations
 ## Methods
@@ -204,6 +312,7 @@
 ## Versioning
 
 # Advanced Topics
+https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes
 ## Reflection and Attributes
 ## Interface implementations
 ## Expression Trees
@@ -211,6 +320,7 @@
 ## Performance engineering
 
 # C# Programming Guide
+https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide
 ## Overview
 ## Programming Concepts
 ## Statements, expressions and equality
@@ -225,6 +335,7 @@
 ## Generics
 
 # Specifications
+https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/specifications
 ## C#7
 ## C#8
 ## C#9
