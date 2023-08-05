@@ -6,8 +6,6 @@
 
 # React
 
-# Svelte
-
 # Node
 
 # Mongo
