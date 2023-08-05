@@ -351,17 +351,34 @@ https://learn.microsoft.com/en-us/dotnet/csharp/linq/
 - Group join
 - Group join to create XML
 #### Perform left outer joins
+- Example
 #### Order the results of a join clause
+- Example
 #### join by using composite keys
+-Example
 #### Perform custom join operations
+- Cross-join
+- Non-equijoin
+- Merge CSV files
 
 ### Grouping Data
 #### Overview
+- Methods
+  - GroupBy
+  - ToLookup
+- Query Expression Syntax Example 
 #### Group query results
+- Group by single property
+- Group by value
+- Group by range
+- Group by comparison
+- Group by anonymous type
 #### Create a nested group
+- Example
 #### Perform a subquery on a grouping operation
+- Example
 #### Group results by contiguous keys
-
+- Example
 ## LINQ to objects
 ## Walkthrough: Writing queries in C# (LINQ)
 ## LINQ and file directories
