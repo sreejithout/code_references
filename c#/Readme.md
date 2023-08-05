@@ -256,21 +256,100 @@ https://learn.microsoft.com/en-us/dotnet/csharp/linq/
   - Where
 - Query Expression syntax Example
 ### Projection Operations
+- Methods
+  - Select
+  - SelectMany
+  - Zip
+  - Select vs SelectMany 
 ### Set Operations
+- Methods
+  - Distinct
+  - DistinctBy
+  - Except
+  - ExceptBy
+  - Intersect
+  - IntersectBy
+  - Union
+  - UnionBy
 ### Sorting Data
+- Methods
+  - OrderBy
+  - OrderByDescending
+  - ThenBy
+  - ThenByDescending
+  - Reverse
+- Primary Sort Examples
+  - Primary Ascending Sort
+  - Primary Descending Sort
+- Secondary Sort Examples
+  - Secondary Ascending Sort
+  - Secondary Descending Sort
 ### Quantifier Operations
+- Methods
+  - All
+  - Any
+  - Contains
 ### Partitioning Data
+- Operators
+  - Skip
+  - SkipWhile
+  - Take
+  - TakeWhile
+  - Chunk
 ### Generation Operations
+- Methods
+  - DefaultIfEmpty
+  - Empty
+  - Range
+  - Repeat
 ### Equality Operations
+- Methods
+  - SequenceEqual
 ### Element Operations
+- Methods
+  - ElementAt
+  - ElementAtOrDefault
+  - First
+  - FirstOrDefault
+  - Last
+  - LastOrDefault
+  - Single
+  - SingleOrDefault
 ### Converting Data Types
+- Methods
+  - AsEnumerable 
+  - AsQueryable
+  - Cast
+  - OfType
+  - ToArray
+  - ToDictionary
+  - ToList
+  - ToLookup
 ### Concatenation Operations
+- Methods
+  - Concat
 ### Aggregation Operations
-
+- Methods
+  - Aggregate
+  - Average
+  - Count
+  - LongCount
+  - Max or MaxBy
+  - Min or MinBy
+  - Sum
 ### Join Operations
-#### Overview
+- Overview
+- Methods
+  - Join
+  - GroupJoin
 #### Perform inner joins 
+- Simple key join
+- Composite key join
+- Multiple join
+- Inner join by using grouped join
 #### Perform grouped joins
+- Group join
+- Group join to create XML
 #### Perform left outer joins
 #### Order the results of a join clause
 #### join by using composite keys
