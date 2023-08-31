@@ -1,4 +1,5 @@
-# Fundamentals
+# [Fundamentals](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-6.0&tabs=windows)
+
 - Startup
 - Dependency Injection
 - Middleware
@@ -13,7 +14,7 @@
 - Make HTTP Requests
 - Static Files
 
-# APIs
+# [APIs](https://learn.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-6.0)
 - Overview
   - ControllerBase class
   - Attributes
@@ -46,7 +47,7 @@
   - Queue
   - Table
 
-# Security and Identity
+# [Security and Identity](https://learn.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-6.0)
 - Authentication
 - Authorization
 - Data Protection
@@ -64,7 +65,7 @@
 
 # Host and Deploy
 
-# Performance
+# [Performance](https://learn.microsoft.com/en-us/aspnet/core/performance/overview?view=aspnetcore-6.0)
 - Caching
   - In-memory caching
   - Distributed caching
@@ -72,7 +73,7 @@
 - Scaling apps on Azure
 - Response compression
 
-# Best Practices
+# [Best Practices](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/best-practices?view=aspnetcore-6.0)
 - Cache Aggressively
 - Understand Hot code paths
 - Avoid blocking calls
@@ -111,7 +112,7 @@
 - Don't assume that HttpRequest.ContentLength is not null
 - Reliable Web app patterns
   
-# Advanced
+# [Advanced](https://learn.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-6.0)
 - Model Binding
   - Custom model binding
 - Model Validation
