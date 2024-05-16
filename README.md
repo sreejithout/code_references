@@ -7,5 +7,5 @@
 
 
 ## Deploy sites
-https://www.gatsbyjs.com/get-started/
-https://www.netlify.com/
+- https://www.gatsbyjs.com/get-started/
+- https://www.netlify.com/
